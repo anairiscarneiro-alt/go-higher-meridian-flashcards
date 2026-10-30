@@ -1,1 +1,5 @@
-window.GH_CONFIG = { url: 'COLE_URL_SUPABASE', anonKey: 'COLE_CHAVE_PUBLICAVEL' };
+
+window.GH_CONFIG = {
+  url: 'https://hbwsegpyjddibsjtfvgh.supabase.co',
+  anonKey: 'sb_publishable_5vcrQjQWmaBZ49kQcy6yHQ_ENR6wMRj'
+};
