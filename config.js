@@ -1,0 +1,1 @@
+window.GH_CONFIG = { url: 'COLE_URL_SUPABASE', anonKey: 'COLE_CHAVE_PUBLICAVEL' };
